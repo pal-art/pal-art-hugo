@@ -1,4 +1,4 @@
-baseURL = 'http://hugo.pal-art.in/'
+baseURL = 'https://hugo.pal-art.in/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'PAL Art'
 theme="ananke"
