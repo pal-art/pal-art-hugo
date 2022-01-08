@@ -2,6 +2,8 @@
 title: "Diti"
 date: 2022-01-08T17:48:10+05:30
 draft: false
+tags: ["sketch"]
+featured_image: diti-sketch-1.jpg
 ---
 ![Diti Sketch](images/diti-sketch-1.jpg)
 

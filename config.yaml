@@ -1,0 +1,10 @@
+baseURL: 'https://hugo.pal-art.in/'
+languageCode: 'en-us'
+title: 'PAL Art'
+theme: "ananke"
+params:
+  # body_classes: avenir bg-near-white
+  # site_logo:  
+  ananke_socials:
+  - name: facebook
+    url: https://www.facebook.com/plvadher

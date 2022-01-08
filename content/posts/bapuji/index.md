@@ -2,6 +2,8 @@
 title: "Bapuji"
 date: 2022-01-08T18:02:13+05:30
 draft: false
+tags: ["sketch"]
+featured_image: Bapuji.jpg
 ---
 ![Bapuji](Bapuji.jpg)
 

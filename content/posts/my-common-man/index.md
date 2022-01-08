@@ -2,6 +2,8 @@
 title: "My Common Man"
 date: 2022-01-08T18:06:25+05:30
 draft: false
+tags: ["cartoon"]
+featured_image: IMG_3619.jpg
 ---
 
 ![My Common Man](IMG_3619.jpg)
