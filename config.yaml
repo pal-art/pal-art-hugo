@@ -1,7 +1,8 @@
-baseURL: 'https://hugo.pal-art.in/'
+baseURL: 'https://www.pal-art.in/'
 languageCode: 'en-us'
-title: 'PAL Art'
+title: 'Parshottam Laxman Vadher | PAL Art'
 theme: "ananke"
+enableRobotsTXT: true
 params:
   # body_classes: avenir bg-near-white
   # site_logo:  
