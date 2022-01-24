@@ -2,6 +2,7 @@ baseURL: 'https://www.pal-art.in/'
 languageCode: 'en-us'
 title: 'Parshottam Laxman Vadher | PAL Art'
 theme: "ananke"
+googleAnalytics: "G-QP990YRZ8P"
 enableRobotsTXT: true
 params:
   env: production
