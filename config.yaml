@@ -4,6 +4,7 @@ title: 'Parshottam Laxman Vadher | PAL Art'
 theme: "ananke"
 enableRobotsTXT: true
 params:
+  env: production
   # body_classes: avenir bg-near-white
   # site_logo:  
   ananke_socials:
