@@ -10,6 +10,8 @@ Hi
 
 I am Parshottam Laxman Vadher
 
-I live in Jamnagar, Gujarat, India
+I live in Ahmedabad, Gujarat, India
 
-I am a teacher by profession and artist by passion.
+I am an ex Govt. teacher and artist.
+
+Mob: [+919428216787](tel:+919428216787)
